@@ -1,6 +1,7 @@
 # mongodb-basics
 
-![screenshot](nodejs1/images/mongod.png)
-![screenshot](nodejs1/images/mongo.png)
-![screenshot](nodejs1/images/mongo_db.png)
-![screenshot](nodejs1/images/collect_db.png)
+![screenshot](nodejs1/images1/interns.png)
+![screenshot](nodejs1/images1/findInterns_1.png)
+![screenshot](nodejs1/images1/findInterns_2.png)
+![screenshot](nodejs1/images1/findInterns_3.png)
+![screenshot](nodejs1/images1/updateInterns.png)
